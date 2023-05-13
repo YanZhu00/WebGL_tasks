@@ -2,7 +2,7 @@
 
 tasks for course of Computer Graphics in UTokyo
 
-OnUpdating
+now on updating
 
 ### Modeling Basic Task1 (Basic_M1)
 Biezer surface     |  Coons patch
